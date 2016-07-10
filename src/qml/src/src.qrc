@@ -1,0 +1,37 @@
+<RCC>
+	<qresource prefix="/">
+		<file>main.qml</file>
+		<file>main.js</file>
+		<file>global.js</file>
+	</qresource>
+	<qresource prefix="/etapas">
+		<file alias="Marca.qml">etapas/Marca.qml</file>
+		<file alias="EtapaCorte.js">etapas/EtapaCorte.js</file>
+		<file alias="EtapaPincel.js">etapas/EtapaPincel.js</file>
+		<file alias="ResizeRect.qml">etapas/ResizeRect.qml</file>
+	</qresource>
+	<qresource prefix="/mapa">
+		<file alias="AreaMapa.qml">mapa/AreaMapa.qml</file>
+		<file alias="AreaMapa.js">mapa/AreaMapa.js</file>
+		<file alias="ImageTile.qml">mapa/ImageTile.qml</file>
+		<file alias="Tiles.qml">mapa/Tiles.qml</file>
+		<file alias="CanvasMap.qml">mapa/CanvasMap.qml</file>
+		<file alias="CanvasMap.js">mapa/CanvasMap.js</file>
+		<file alias="MiniMapa.qml">mapa/MiniMapa.qml</file>
+		<file alias="MiniMapa.js">mapa/MiniMapa.js</file>
+		<file alias="SombraMouse.qml">mapa/SombraMouse.qml</file>
+	</qresource>
+	<qresource prefix="/root">
+		<file alias="CanvasTab.qml">root/CanvasTab.qml</file>
+		<file alias="OfficeTabBar.qml">root/OfficeTabBar.qml</file>
+		<file alias="TabFormItem.qml">root/TabFormItem.qml</file>
+		<file alias="TabSeparator.qml">root/TabSeparator.qml</file>
+		<file alias="OfficeTabRow.qml">root/OfficeTabRow.qml</file>
+		<file alias="BtRedondo.qml">root/BtRedondo.qml</file>
+		<file alias="ToolButtonSt.qml">root/ToolButtonSt.qml</file>
+		<file alias="ButtonSt.qml">root/ButtonSt.qml</file>
+	</qresource>
+	<qresource prefix="/frm">
+		<file alias="CoordsCorte.qml">frm/CoordsCorte.qml</file>
+	</qresource>
+</RCC>

@@ -1,0 +1,13 @@
+INPUT(
+./debug/main.o
+./debug/proxy.o
+./debug/opencvimgprovider.o
+./debug/Pincel.o
+./debug/PincelMarcas.o
+./debug/PincelTecnicas.o
+./debug/PuntoAnalizado.o
+./debug/utileria.o
+./debug/qrc_img.o
+./debug/qrc_src.o
+./debug/moc_proxy.o
+);

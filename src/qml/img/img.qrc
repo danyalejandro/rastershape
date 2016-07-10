@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>folder.png</file>
+        <file>marca.png</file>
+        <file>tab-borde-izq.png</file>
+        <file>tab-borde-der.png</file>
+        <file>tab-fondo.png</file>
+        <file>wand.png</file>
+        <file>zoom_in.png</file>
+        <file>zoom_out.png</file>
+        <file>minus.png</file>
+        <file>plus.png</file>
+        <file>marca2.png</file>
+        <file>map_edit.png</file>
+        <file>flag_1.png</file>
+        <file>marker.png</file>
+        <file>crop.png</file>
+        <file>crop2.png</file>
+        <file>lineamarca.png</file>
+        <file>adelgazar.png</file>
+        <file>vector.png</file>
+        <file>recons.png</file>
+        <file>select-line.png</file>
+        <file>draw_eraser.png</file>
+        <file>pencil.png</file>
+        <file>delete-icon.png</file>
+        <file>disk.png</file>
+        <file>guardartrazo.png</file>
+        <file>borrartrazo.png</file>
+        <file>marker2.png</file>
+        <file>disk2.png</file>
+        <file>guardartrazo2.png</file>
+        <file>borrartrazo2.png</file>
+        <file>lineamarca2.png</file>
+        <file>limpiar-aislados.png</file>
+        <file>tooltip-coords.png</file>
+        <file>close-button.gif</file>
+        <file>close-button2.png</file>
+        <file>marca3.png</file>
+        <file>grosor.png</file>
+        <file>capa-sec.png</file>
+    </qresource>
+</RCC>

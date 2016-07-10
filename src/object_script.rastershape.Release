@@ -1,0 +1,13 @@
+INPUT(
+./release/main.o
+./release/proxy.o
+./release/opencvimgprovider.o
+./release/Pincel.o
+./release/PincelMarcas.o
+./release/PincelTecnicas.o
+./release/PuntoAnalizado.o
+./release/utileria.o
+./release/qrc_img.o
+./release/qrc_src.o
+./release/moc_proxy.o
+);
